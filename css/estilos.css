@@ -1,0 +1,37 @@
+.resaltado {
+background-color: yellow;   
+}
+
+.maria-paula {
+background-color: yellow;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    border-top: solid 1px black;
+}
+
+.maria {
+    background-color: yellow;
+}
+
+body {
+    margin: 20px;
+    font-family: Verdana;
+}   
+
+#Menu-principal {
+    padding: 10px 0px;
+}
+
+.titulo {
+    background-color: aliceblue;
+}
+
+/*estilos del logo*/
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
